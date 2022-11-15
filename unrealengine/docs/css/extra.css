@@ -1,0 +1,11 @@
+h1 {
+  color: #3788e6;
+}
+h2 {
+  color: #3788e6;
+}
+
+table, th, td {
+  border: 0px solid;
+  font-size: 0.8em
+}
